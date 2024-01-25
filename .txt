@@ -12,8 +12,17 @@ PROJECT STARTER
 
 - python manage.py startapp playground
 
---> playground -> Innstalled app
+--> playground -> Installed app
 --> playground [ views ] -> [ urls ] -> [ Universal urls ]
+
+
+
+- pipenv install django-debug-toolbar
+
+
+- [Installed app] -> 'debug-toolbar'
+
+- [ Universal urls ] -> 
 
 
 
