@@ -12,3 +12,11 @@ PROJECT STARTER
 
 - python manage.py startapp playground
 
+--> playground -> Innstalled app
+--> playground [ views ] -> [ urls ] -> [ Universal urls ]
+
+
+
+
+
+
